@@ -4,3 +4,15 @@
 04/08/24 09:45:06 - INFO - Completed test_search_unsuccessfully
 04/08/24 09:57:07 - INFO - Starting test_create_new_comment_process
 04/08/24 09:57:08 - INFO - Completed test_create_new_comment_process
+08/08/24 20:05:33 - INFO - Starting test_add_new_project_process
+08/08/24 20:05:34 - INFO - Completed test_add_new_project_process
+08/08/24 20:06:11 - INFO - Starting test_create_new_comment_process
+08/08/24 20:06:11 - INFO - Completed test_create_new_comment_process
+08/08/24 20:07:44 - INFO - Starting test_search_successfully
+08/08/24 20:07:59 - INFO - Completed test_search_successfully
+08/08/24 20:08:25 - INFO - Starting test_search_unsuccessfully
+08/08/24 20:08:46 - INFO - Completed test_search_unsuccessfully
+10/08/24 17:53:58 - INFO - Starting test_add_new_project_process
+10/08/24 17:53:59 - INFO - Completed test_add_new_project_process
+10/08/24 17:55:00 - INFO - Starting test_add_new_project_process
+10/08/24 17:56:39 - INFO - Completed test_add_new_project_process

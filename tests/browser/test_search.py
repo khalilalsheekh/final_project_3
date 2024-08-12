@@ -2,15 +2,15 @@ import unittest
 
 import logging
 
-from infra.browser_wrapper.browser_wrapper import BrowserWrapper
-from infra.browser_wrapper.config_provider import ConfigProvider
-from infra.browser_wrapper.logging_basicConfig import LoggingSetup
+from infra.browser.browser_wrapper import BrowserWrapper
+from infra.config_provider import ConfigProvider
+from infra.browser.logging_basicConfig import LoggingSetup
 from logic.browser.home_page import HomePage
 from logic.browser.login_page import LoginPage
 
 
 class TestSearch(unittest.TestCase):
-    config = ConfigProvider.load_config_json('../../config.json')
+    config = ConfigProvider.load_config_json('C:\\Users\\User\\PycharmProjects\\project3\\config.json')
 
     def setUp(self):
         self.browser = BrowserWrapper()
